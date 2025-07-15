@@ -10,6 +10,7 @@ body {
   font-family: Raleway, sans-serif;
   font-size: 20px;
   font-weight: normal;
+  overflow: hidden;
 }
 
 h1,
