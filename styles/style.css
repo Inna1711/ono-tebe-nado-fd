@@ -159,7 +159,7 @@
 .card_text_position {
   display:flex;
   flex-direction: column;
-  justify-content: space-between;    
+  justify-content: space-between;
 }
 
 .card {
@@ -221,7 +221,7 @@
   width: 240px;
   border-radius: 120px;
   background-color: #000;
-  margin-top: 35px; 
+  margin-top: 35px;
 }
 
 .about__logo-image {
